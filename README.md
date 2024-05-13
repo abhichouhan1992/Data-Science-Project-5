@@ -1,4 +1,4 @@
-# Data-Science-Project-5
+# Spam Prediction Project
 Prediction of spam on Spam-Ham dataset using Naive Bayes algorithm.
 # Introduction
 The spam-ham dataset consists of five thousand one hundred seventy one samples. Each sample include a Number,Label,text and Label_number. 
